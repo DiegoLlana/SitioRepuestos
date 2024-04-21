@@ -1,4 +1,20 @@
 .cajaacercade{
     padding: 20px;
     background-color: #501680;
+    border-radius: 10px;
+    color: white;
+}
+
+footer div{
+    background-color: #501680;
+    padding: 10px;
+    color: white;
+}
+
+.nav-item{
+    margin-top: 8px;
+}
+
+.nav-item:hover{
+    text-decoration: underline;
 }
