@@ -18,3 +18,11 @@ footer div{
 .nav-item:hover{
     text-decoration: underline;
 }
+
+footer nav{
+    background-color: #501680;
+    color: white;
+    padding: 5px;
+    padding-top: 15px;
+    margin-top: 10px;
+}
